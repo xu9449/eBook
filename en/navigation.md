@@ -25,6 +25,7 @@
 <!-- A more complex navigation example: ---------------------------------------- -->
 
 [Menu Item 1]()
+
   * # SubMenu Heading 1
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
@@ -36,8 +37,9 @@
   * [SubMenu Item 3](pages/subitem3.md)
 
 [Menu Item 2](pages/item2.md)
-
+- - - -
 [Menu Item 3](pages/item3.md)
+
 
 <!-- ---------------------------------------------------------------------------- -->
 

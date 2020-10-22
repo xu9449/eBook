@@ -24,24 +24,51 @@
 
 <!-- A more complex navigation example: ---------------------------------------- -->
 
-[Menu Item 1]()
-
-  * # SubMenu Heading 1
+[Algorithm]()
+  * # Sorting
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
-  * # SubMenu Heading 2
+  * # Binary Search
   * [SubMenu Item 3](pages/subitem3.md)
   - - - -
-  * # SubMenu Heading 3
+  * # LinkedList
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # Queue & Stack
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # Binary Tree
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # Heap & BFS
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # DFS
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # Hashtable & String
   * [SubMenu Item 3](pages/subitem3.md)
 
-[Menu Item 2](pages/item2.md)
+[OOD & System Design]()
+  * # OOD
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # System Design
+  * [SubMenu Item 3](pages/subitem3.md)
+
 - - - -
-[Menu Item 3](pages/item3.md)
+[Notes]()
+  * # Design Doc
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # Fast Coding  
+  * [SubMenu Item 3](pages/subitem3.md)
 
 
-<!-- ---------------------------------------------------------------------------- -->
+----------------------------------------------------------------------------
 
 <!--
   -- Change the Language

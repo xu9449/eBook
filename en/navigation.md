@@ -24,7 +24,7 @@
 
 [Downloads]()
 
-  * [DesignDocs](pages/download.md)
+  * [DesignDocs](pages/designdocs.md)
   * [Blogs](pages/blogs.md)
 
 

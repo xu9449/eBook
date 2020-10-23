@@ -421,6 +421,8 @@
        margin-right: 0px ;
        margin-left: 0px ;
        height: 1000px;
+       max-width: none;
+
      }
 
      #md-all{
@@ -435,6 +437,11 @@
        background: white;
        border: 1px solid #ecf0f1;
        height: 972px;
+     }
+
+     #md-content-container{
+       width: 100%;
+       max-width: none;
      }
 
      h2{
@@ -457,7 +464,14 @@
      #md-page-menu{
        width: auto;
      }
+     .navbar-nav{
+       float:right !important;
+       margin-right: 5% !important;
+     }
 
+     .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+       background-color: #ecf0f1 !important;
+     }
 
   </style><!-- END extlib/css/colorbox.css -->
   <!-- START extlib/js/jquery.colorbox.min.js -->

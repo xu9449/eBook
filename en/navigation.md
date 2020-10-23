@@ -3,7 +3,8 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# My Ebook
+  
+# eBook
 
 
 <!--
@@ -19,12 +20,12 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+<!-- [About](pages/about.md)
+[Download](pages/download.md) -->
 
 <!-- A more complex navigation example: ---------------------------------------- -->
 
-[Algorithm]()
+<!-- [Algorithm]()
   * # Sorting
   * [SubMenu Item 1](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
@@ -65,7 +66,7 @@
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # Fast Coding  
-  * [SubMenu Item 3](pages/subitem3.md)
+  * [SubMenu Item 3](pages/subitem3.md) -->
 
 
 ----------------------------------------------------------------------------
@@ -88,5 +89,5 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-
-[gimmick:themechooser](Choose theme)
+<!--
+[gimmick:themechooser](Choose theme) -->

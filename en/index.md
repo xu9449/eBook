@@ -27,4 +27,10 @@ __Technique__: [Recursion](pages/technique/recursion.md), [Bfs](pages/technique/
 [online book store](https://www.youtube.com/watch?v=gNQ9-kgyHfo&feature=youtu.be) (AMAZON SAMPLE SD)
 
 ## Behavior Questions
+___STAR___
+| STAR| think about|
+|-	|-	|
+| S: Situation <br> T: Task  	|   why important? goal?	<br> initial scope? challenge? <br>risks? potential consequences if nothing happened?|
+|  A: Action	|  you key driver or project owner? biggest contribution? unique value? <br> obstacles? how overcome?|
+|  R: Result	| why choose these result? what other result? <br> tradeo-offs?|
 [Amazon](pages/bq/amazon.md)

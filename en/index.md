@@ -3,7 +3,18 @@
 
 **Common data structure** : Array, [Stack](pages/data-structure/stack.md), Queue, [Linked List](pages/data-structure/linkedlist.md), [Tree](pages/data-structure/tree.md), Heap, Graph, Hash table.   
 
-**Knowledge** : [Sorting](pages/algorithm/sorting.md), [Binary Search](pages/algorithm/binary-search.md), Partition, SubSet, Deduplication, Longest subarray/sequence, Common Sequence, Sliding Window, Re-ordering, Compression, Geometry
+**Knowledge** : 
+* [Sorting](pages/algorithm/sorting.md)
+* [Binary Search](pages/algorithm/binary-search.md)
+* Partition
+* SubSet
+* Deduplication
+* Longest subarray/sequence
+* Common Sequence
+* Sliding Window
+* Re-ordering
+* Compression
+* Geometry
 
 __Technique__: [Recursion](pages/technique/recursion.md), [Bfs](pages/technique/bfs.md), [Dfs](pages/technique/dfs.md), [DP](pages/technique/dp.md)
 
@@ -13,7 +24,7 @@ __Technique__: [Recursion](pages/technique/recursion.md), [Bfs](pages/technique/
 
 ## System Design
 
-I like playing badminton and any joyful sports. I like hiking and playing with pets.
+[online book store](https://www.youtube.com/watch?v=gNQ9-kgyHfo&feature=youtu.be) (AMAZON SAMPLE SD)
 
 ## Behavior Questions
 [Amazon](pages/bq/amazon.md)

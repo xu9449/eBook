@@ -25,3 +25,12 @@ class MyComparator implements Comparator<Cell>{
 }
 ```
 iv. Collections,reverseOrder()
+
+```java
+	PriorityQueue<Integer> pQueue = new PriorityQueue<Integer>(1000, new Comparator<Integer>() {  
+	    
+	                public int compare(Integer w1, Integer w2) {                         
+	                    return w1.compareTo(w2);  
+	                }      
+	            });  
+```

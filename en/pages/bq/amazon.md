@@ -1,4 +1,6 @@
 ### Leadership Principles
-Customer Obsession
 
-Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
+_Reference_
+
+[How to interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson/)
+

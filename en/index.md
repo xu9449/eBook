@@ -34,11 +34,16 @@ T: Task  |why important? goal?initial scope? challenge? risks? potential consequ
 A: Action|you key driver or project owner? biggest contribution? unique value?obstacles? how overcome?|
 R: Result|why choose these result? what other result? tradeo-offs?|
 
-[Amazon](pages/bq/amazon.md)
+## 面经
 
+[Amazon](pages/interviews/amazon.md)
 
 ## Notes
 
 When to choose what? Arraylist or LinkedList?
 1. if you have a lot of random access operations, use arraylist
 2. if you always add/remove at the end, use ArrayList 2.1 when the time complexity is similar, sue Arraylist, not that much overhead.
+
+## Agile Project Management Methodology  <br> 
+
+![agile](https://miro.medium.com/max/1400/0*jlUybkZYz6yxWtdk.jpg)

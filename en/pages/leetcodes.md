@@ -38,3 +38,20 @@ Interview Process:
   // return the word with the highest frequency
   return Collections.max(wordCount.entrySet(), Map.Entry.comparingByValue()).getKey();
 ```
+Leetcode 42 水池蓄水问题
+基础解法  brutal force
+  找到当前结点左侧最高点，右侧最高点。计算出两点中较小的点，算出该点值与当前点值之间的差值，加入总结果中。
+  T:O(n^2) S: O(1)
+优化解法1 DP
+  先利用两个array A[] B[], 分别记录从左边起始点到当前节点（包括）的最大值，以及右边同样。然后过一遍所有点，取 A[i] B[i] 较小点，与height[i]进行相减。
+  T:O(n) S: O(n)
+  关键点，dp帮助我们进行了记录，并且利用A[i] = Math.max(A[i - 1], height[i])，大大减少了重复计算的时间。
+优化解法2 Stack
+  利用stack帮助我们过一次array就可以得出所有的凹槽蓄水。相比于解法2更为优化，减少遍历次数。
+  关键点，遇到下降趋势将节点坐标放入stack，等遇到向上趋势回头算账。且利用while，将所有小于当前节点的账目全部算清。
+  关键点，不可以像往常一样用stack.isEmpty做为while结束条件，因为我们有情况是最高点在中间，它会一直存在于stack中无法弹出，因为弹出条件是当前节点的值大于stack的top。
+  T:O(n) S:O(n)
+优化解法3 2pointers
+  左右两个pointer，向中心收缩，谁小挪谁，因为已经确定对面有比他大的，只用关心当前节点与其身后节点中最大的那个值谁大，如果当前节点大，更新最大值不蓄水，如果小，将差值加入蓄水的结果中。
+  关键点，当两个pointer值相等的时候，可以走任意一方，不影响计算。
+  T:O(n) S:O(1)
